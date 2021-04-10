@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\uas",
+    "\\uas\\application",
+    "\\uas\\application\\config",
+    "\\uas\\application\\controllers",
+    "\\uas\\application\\core",
+    "\\uas\\application\\models"
+  ],
+  "SelectedNode": "\\uas\\application\\config\\database.php",
+  "PreviewInSolutionExplorer": false
+}
